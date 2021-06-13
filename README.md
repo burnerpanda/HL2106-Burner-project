@@ -1,4 +1,4 @@
-# HL2106-Burner-project
+# HL2106SW-Burner-project
 
 Project name: HL2106-Burner
 Foundation of the project: 2021.06.09
